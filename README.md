@@ -15,7 +15,7 @@ A beautiful SnackBar.
 
 ## Features
 
-<img src="https://github.com/crayonxiaoxin/lx_tips/blob/main/example/assets/demo.gif" width="50%">
+<img src="https://github.com/crayonxiaoxin/lx_tips/blob/main/example/assets/demo.gif?raw=true" width="50%">
 
 ## Usage
 
@@ -39,4 +39,3 @@ Tips.of(context).show(
       ],
     ));
 ```
-
