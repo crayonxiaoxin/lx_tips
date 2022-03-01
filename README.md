@@ -15,7 +15,7 @@ A beautiful SnackBar.
 
 ## Features
 
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<img src="https://github.com/crayonxiaoxin/lx_tips/blob/main/example/assets/demo.gif" width="50%">
 
 ## Usage
 
