@@ -23,3 +23,20 @@ A beautiful SnackBar.
 Tips.of(context).show(content: "Normal String Tips.");
 ```
 
+```dart
+Tips.of(context).show(
+    color: Colors.pink.withOpacity(0.5),
+    content: Row(
+      children: const [
+        Icon(Icons.face, color: Colors.white),
+        Padding(
+          padding: EdgeInsets.only(left: 8),
+          child: Text("Custom Tips.",
+            style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: Colors.white)),
+        )
+      ],
+    ));
+```
+
